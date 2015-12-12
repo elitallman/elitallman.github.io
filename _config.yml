@@ -10,7 +10,6 @@ title: Developer portfolio of Eli Tallman
 email: eli.tallman02 ǍT gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Enlighten your mind reading my musings, browsing my projects, and discovering hidden easter eggs.
-  Why won't this text show up?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elitallman.com.com" # the base hostname & protocol for your site
 twitter_username: elitallman
