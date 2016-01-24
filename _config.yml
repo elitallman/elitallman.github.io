@@ -9,7 +9,9 @@
 title: Eli Tallman
 email: eli.tallman02 ǍT gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Enlighten your mind reading my musings, browsing my projects, and discovering hidden easter eggs.
+  0100010101101100011010010010011101110011001000000111000001101111011100100111010001100110011011110
+  1101100011010010110111100100000011000010110111001100100001000000110010001100101011101100110010101
+  1011000110111101110000011011010110010101101110011101000010000001100010011011000110111101100111
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elitallman.com.com" # the base hostname & protocol for your site
 twitter_username: elitallman
