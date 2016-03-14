@@ -13,3 +13,4 @@ Some of my current favorite technologies/projects:<br />
 * Ansible<br />
 * Postgrest<br />
 * Python<br />
+* NoSQL/MongoDB<br />
