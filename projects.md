@@ -22,20 +22,24 @@ These are a few noteworthy or interesting school projects that I had an importan
      - ![](images/medsim/create_medications_patients.png)
      - ![](images/medsim/create_medication1.png)
 
+     
  - Top Gun
      - A project in a Java class. I used UML and graphs to implement a fully functioning sidescrolling 2D video game with scoring, lives, and dynamically generated scenery.
      - ![](images/top_gun/top_gun_main_screen.png)
      
+     
   - Toptravel
      - One of the projects in an algorithms class involved using an 'abstract data type' adjacency list and topological depth first search to figure out the best way to take a series of classes with prerequisites. In addition to completing the project, I made a program that visually demonstrated the traversal of the graph
-     - ![](images/Toptravel/Toptravel_main_screen.png)
-     - ![](images/Toptravel/Toptravel_results.png)
+     - ![](images/toptravel/Toptravel_main_screen.png)
+     - ![](images/toptravel/Toptravel_results.png)
+    
     
    - Duke vs Tux Tic Tac Toe
     - Made a networked Tic Tac Toe game in VB.NET that used TCP/IP and socket programming
     - ![](images/tic_tac_toe/client1.png)
     - ![](images/tic_tac_toe/client2.png)
     - ![](images/tic_tac_toe/server.png)
+    
     
    - Auto Loan Calculator
      - Java application and web applet for calculating a long list of fees and balances when purchasing a car. The interface was not complex but the underlying calculations and dynamic updating was tricky.
