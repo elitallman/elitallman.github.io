@@ -35,10 +35,10 @@ These are a few noteworthy or interesting school projects that I had an importan
     
     
    - Duke vs Tux Tic Tac Toe
-    - Made a networked Tic Tac Toe game in VB.NET that used TCP/IP and socket programming
-    - ![](images/tic_tac_toe/client1.png)
-    - ![](images/tic_tac_toe/client2.png)
-    - ![](images/tic_tac_toe/server.png)
+     - Made a networked Tic Tac Toe game in VB.NET that used TCP/IP and socket programming
+     - ![](images/tic_tac_toe/client1.png)
+     - ![](images/tic_tac_toe/client2.png)
+     - ![](images/tic_tac_toe/server.png)
     
     
    - Auto Loan Calculator
@@ -53,6 +53,7 @@ These are a few noteworthy or interesting school projects that I had an importan
     - This project was for the physical therapy department at my university. I transformed raw directional cosine matrix data into averages of hand movement in order for researchers to determine the optimal angle to fuse
     a wrist (in patients that, for whatever reason, lost proper use of it). The program was written in Python and coordinated the workflow of collecting the data by the operator of the system.
 
+    
  - BearClaw glove-game augmented physical therapy system
      - I was fortunate enough to be able to participate in a summer-long REU (Research Experience for Undergraduates) program at my unversity and work on this system. I contributed to the game development (scripting,
      game logic, and some graphical modeling) and interoperability between the glove and the phone that was communicating with it. This project was initially conceived and implemented by other researchers, but during 
