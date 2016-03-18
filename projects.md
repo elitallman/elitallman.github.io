@@ -66,7 +66,7 @@ These are a few noteworthy or interesting school projects that I had an importan
 
 ## Open Source ##
 
- ![GitHub](https://github.com/elitallman)
+ [GitHub](https://github.com/elitallman)
 
 ----------
 
